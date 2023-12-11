@@ -1,0 +1,33 @@
+body {
+    margin:0;
+    padding:0;
+    color: black;
+    background: #FFFFFF;
+    font-size: 18px;
+    Font-family: ”Times New Roman” , Times, serif;
+   }
+ header {
+     display: none;
+   
+   }
+ 
+   .leftside {
+    float: left;
+    width:200px;
+    padding:0px;
+    height: 10px;
+
+   }  
+
+   .centeredtable { 
+    float: right;
+    width:100px;
+    padding:10px;
+    height: 800px;
+   }
+
+   footer {
+   display: none;
+   }
+
+
